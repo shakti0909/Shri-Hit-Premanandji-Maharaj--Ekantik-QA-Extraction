@@ -1,0 +1,1 @@
+# TODO: Implement Gemini API topic shape generation for Phase 2
